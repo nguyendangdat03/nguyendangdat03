@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Maple+Nguyen+%F0%9F%91%8B;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyendangdat03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
 ## 🚀 About Me
 
 I'm **Maple Nguyen**, a passionate Full Stack Developer who loves creating innovative solutions and building amazing web experiences. Welcome to my digital playground!
