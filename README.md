@@ -62,16 +62,6 @@ I'm **Maple Nguyen**, a passionate Full Stack Developer who loves creating innov
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyendangdat03&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/nguyendangdat03/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendangdat03&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/nguyendangdat03/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendangdat03&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</div>
 
 ## 🤝 Let's Connect
 
