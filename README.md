@@ -107,23 +107,6 @@ I'm **Maple Nguyen**, a passionate Full Stack Developer who loves creating innov
 </div>
 ```
 
-File README này bao gồm:
 
-🎨 **Các tính năng nổi bật:**
-- Header động với hiệu ứng typing
-- GitHub stats và analytics đẹp mắt
-- Tech stack với badges màu sắc
-- Contribution graph và streak stats
-- GitHub trophies
-- Featured projects section
-- Social media links
-- Random dev quotes
-- Profile view counter
-
-📝 **Cách sử dụng:**
-1. Thay thế `maplenguyendev` bằng username GitHub thực của bạn
-2. Cập nhật các link social media
-3. Thay thế tên các repository trong Featured Projects
-4. Tùy chỉnh email và thông tin liên hệ
 
 
