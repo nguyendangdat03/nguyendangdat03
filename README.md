@@ -1,9 +1,10 @@
-- 👋 Hi, I’m MapleNguyenDev
-- facbook: https://www.facebook.com/maplezz.d/
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Maple+Nguyen+%F0%9F%91%8B;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyendangdat03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
 ## 🚀 About Me
 
@@ -46,33 +47,33 @@ I'm **Maple Nguyen**, a passionate Full Stack Developer who loves creating innov
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maplenguyendev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendangdat03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maplenguyendev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendangdat03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maplenguyendev&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nguyendangdat03&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maplenguyendev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyendangdat03&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/maplenguyendev/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maplenguyendev&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/nguyendangdat03/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendangdat03&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/maplenguyendev/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maplenguyendev&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/nguyendangdat03/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendangdat03&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
   </a>
 </div>
 
@@ -81,8 +82,8 @@ I'm **Maple Nguyen**, a passionate Full Stack Developer who loves creating innov
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-maplenguyen.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maplenguyen.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maplenguyendev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maplenguyendev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyendangdat03)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nguyendangdat03)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@maplenguyen.dev)
 
 </div>
@@ -96,7 +97,7 @@ I'm **Maple Nguyen**, a passionate Full Stack Developer who loves creating innov
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maplenguyendev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nguyendangdat03&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -104,6 +105,15 @@ I'm **Maple Nguyen**, a passionate Full Stack Developer who loves creating innov
 </div>
 ```
 
+## ✅ Đã cập nhật:
+- Thay đổi tất cả `maplenguyendev` thành `nguyendangdat03`
+- GitHub Stats API sẽ hoạt động bình thường với username thực tế
+- Featured Projects links đã được cập nhật
 
+## 📝 Cần chỉnh sửa thêm:
+1. **Featured Projects**: Thay `project1` và `project2` bằng tên repository thực tế của bạn
+2. **Social Links**: Cập nhật LinkedIn, Twitter nếu có
+3. **Tech Stack**: Thêm/bớt công nghệ theo kinh nghiệm thực tế của bạn
 
+Bây giờ README sẽ hoạt động mà không có lỗi nữa! 🎉
 
